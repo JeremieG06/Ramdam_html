@@ -203,13 +203,13 @@ footer {
   }
   .card-container {
     margin-top: 1rem;
-    flex-direction: column;
     align-items: center;
     margin-bottom: 5rem;
   }
   .card {
     width: 100%;
-    max-width: 400px;
+    max-width: none;
+    height: none;
   }
 }
 
