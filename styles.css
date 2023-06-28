@@ -71,6 +71,7 @@ h1 {
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 2rem;
+  margin-bottom: 6rem;
 }
 
 .card {
@@ -102,7 +103,7 @@ h1 {
   font-size: 0.9rem;
   color: #666666;
   margin-bottom: 0;
-  font-family: 'comfortaa', bold;
+  font-family: 'Comfortaa', bold;
 }
 
 .social-icons {
@@ -193,11 +194,9 @@ footer {
 }
 
 @media (max-width: 767px) {
-  
   .App {
     padding: 1rem;
     padding-bottom: 4rem;
-    font-family: 'comfortaa' , bold;
   }
   .logo-container {
     margin-top: 1rem;
