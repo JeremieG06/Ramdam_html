@@ -193,9 +193,11 @@ footer {
 }
 
 @media (max-width: 767px) {
+  
   .App {
     padding: 1rem;
     padding-bottom: 4rem;
+    font-family: 'comfortaa' , bold;
   }
   .logo-container {
     margin-top: 1rem;
