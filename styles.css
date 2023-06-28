@@ -241,3 +241,27 @@ footer {
     margin-right: auto;
   }
 }
+
+/* Media Queries */
+@media (max-width: 767px) {
+  body {
+    font-size: 18px; /* Augmenter la taille de la police du corps du texte */
+  }
+
+  .App-header h1 {
+    font-size: 2rem; /* Augmenter la taille de la police pour l'en-tête h1 */
+  }
+
+  .card h2 {
+    font-size: 1.1rem; /* Augmenter la taille de la police pour les titres des cartes */
+  }
+
+  .card p {
+    font-size: 0.95rem; /* Augmenter la taille de la police pour le texte des cartes */
+  }
+
+  footer {
+    font-size: 0.9rem; /* Augmenter la taille de la police pour le texte du footer */
+  }
+}
+
